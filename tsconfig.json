@@ -66,5 +66,5 @@
     ".storybook/*.ts",
     ".next/types/**/*.ts",
     "**/*.mts"
-  ]
+, "src/libs/s/.js"  ]
 }
