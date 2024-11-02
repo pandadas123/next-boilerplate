@@ -33,7 +33,7 @@ export default withSentryConfig(
     // For all available options, see:
     // https://github.com/getsentry/sentry-webpack-plugin#options
     // FIXME: Add your Sentry organization and project names
-    org: 'panda',
+    org: 'panda-nm',
     project: 'next-boilerplate',
 
     // Only print logs for uploading source maps in CI
