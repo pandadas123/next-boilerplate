@@ -1,3 +1,12 @@
+## [1.0.2](https://github.com/pandadas123/next-boilerplate/compare/v1.0.1...v1.0.2) (2024-11-02)
+
+
+### Bug Fixes
+
+* crowdin ([04af660](https://github.com/pandadas123/next-boilerplate/commit/04af66035b7114ed812111c7b907de99441eac81))
+* posthog ([604f7f8](https://github.com/pandadas123/next-boilerplate/commit/604f7f8813dafa5ab12a5dfcdad90620b9a682b8))
+* tran ([abf8ab7](https://github.com/pandadas123/next-boilerplate/commit/abf8ab7b18d45f225a7ea188a70d07062e1a6e66))
+
 ## [1.0.1](https://github.com/pandadas123/next-boilerplate/compare/v1.0.0...v1.0.1) (2024-11-02)
 
 
