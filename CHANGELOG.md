@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/pandadas123/next-boilerplate/compare/v1.0.0...v1.0.1) (2024-11-02)
+
+
+### Bug Fixes
+
+* sentry ([0aa111a](https://github.com/pandadas123/next-boilerplate/commit/0aa111afbeb7c82607ded5a7a91e9c3048fe5b50))
+
 # 1.0.0 (2024-11-02)
 
 
