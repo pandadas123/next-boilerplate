@@ -1,3 +1,10 @@
+# 1.0.0 (2024-11-02)
+
+
+### Bug Fixes
+
+* checkly ([ab805a3](https://github.com/pandadas123/next-boilerplate/commit/ab805a3bb5b148cd98f978a96f997b89c73ee66b))
+
 ## [3.58.2](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.58.1...v3.58.2) (2024-10-17)
 
 
